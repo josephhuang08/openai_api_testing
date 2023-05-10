@@ -2,7 +2,7 @@
 An jupyter notebook to test out audio recording, transcribe and chatGPT APIs.
 
 ## The Notebook
-The note book is a proof of concept and used for testing.  
+The note book is a proof of concept and used for testing. The sample interview question is taken from Youtube.
 It does the following:  
 1. The soundcard library records the system audio for a certain amount of time  
 2. Uses whisper API to transcribe the recorded audio to text  
